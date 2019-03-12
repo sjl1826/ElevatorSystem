@@ -1,4 +1,4 @@
-Team - Shyam Venkatasubramanian, Samuel Lee
+Team - Samuel Lee, Shyam Venkatasubramanian
 
 For the Hackathon Project, our team designed a elevator. We created a binary 
 encoding scheme (01 = elevator moves down 1 floor, 11 = elevator moves up one floor)
